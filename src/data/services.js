@@ -1,7 +1,9 @@
-import image8 from '../assets/images/services/Remedial-Test-1.png';
-import image9 from '../assets/images/services/Fire-Alarm-Image-Test-1.png';
-import image10 from '../assets/images/services/Wiring-Test-1.png';
-import image11 from '../assets/images/services/Inspection-Test-1.png';
+import {
+  image8,
+  image9,
+  image10,
+  image11
+} from '../assets/imports';
 
 const services = [
   {
